@@ -23,7 +23,7 @@ const Main = () => {
                     <div className="text">
                         <h2>Acerca de mi</h2>
                         <section>
-                        Mi nombre es Mariano, tengo 27 años soy estudiante de ingeniería en telecomunicaciones en UNSAM, soy aficionado a la tecnología, para mi es más que una herramienta, es una pasión. 
+                        Mi nombre es Mariano, tengo 27 años, estudiante de ingeniería en telecomunicaciones en UNSAM. Aficionado a la tecnología, la cual considero que no solo es un medio para concretar ideas, es una pasión. 
                         Realizo este curso para poder cumplir un sueño, el cual consta en desarrollar soluciones tecnológicas que eviten el uso de papel y a su vez posicionen a pequeñas y medianas empresas en el mundo tecnológico.
                         </section>
                     </div>
@@ -91,6 +91,7 @@ const Main = () => {
 
 
                 </div>
+
             </div>
             
          
